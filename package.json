@@ -1,0 +1,19 @@
+{
+  "name": "travistest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
